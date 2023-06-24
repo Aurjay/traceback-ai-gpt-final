@@ -1,0 +1,7 @@
+Project Name : Test project 1
+AI Usecase : Lung Cancer detection using x-rays.
+Type of AI Project : High risk ai project in a medical domain
+Data Generation and Accumulation : Both synthetic data and data collected from patients as well.
+Data Preprocessing : Using python libraries like pandas and numpy
+Deployment : Model deployment on google cloud hosted in frankfurt.
+Part of the pipeline that concerns you : I am concerned with the model training and documentation.
